@@ -1,0 +1,35 @@
+/* ===== GLOBAL PREMIUM STYLES ===== */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #eee;
+  background: linear-gradient(
+    270deg,
+    #2a003f,
+    #4b0082,
+    #6a0dad,
+    #8a2be2,
+    #4b0082
+  );
+  background-size: 600% 600%;
+  animation: premiumGradient 18s ease infinite;
+}
+
+@keyframes premiumGradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+a, button {
+  transition: all 0.3s ease;
+}
+
+.App {
+  min-height: 100vh;
+}
