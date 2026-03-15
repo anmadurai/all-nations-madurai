@@ -30,9 +30,7 @@ const MainPage = () => {
           <div className="auto-scroll-track" ref={scrollRef}>
             {/* cards */}
             {[
-              'TB8ZyH2bxUw',
-              'CZy3KwSTtFE',
-              'la3Dy_LubAE'
+              'J7hgsCgwFOw'
             ].map(id => (
               <div className="card" key={id}>
                 <iframe
