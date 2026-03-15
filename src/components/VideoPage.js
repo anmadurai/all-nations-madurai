@@ -3,6 +3,7 @@ import '../styles/VideoPage.css';
 
 const VideoPage = () => {   
   const videos = [
+    { id: '81dz3-1nuQ8 ', title: 'Sunday Evening Service 15-03-26', img: 'sm-01-02-26.png' },
     { id: 'uhGf9Zhc_Ig', title: 'Sunday Evening Service 08-03-26', img: 'sm-01-02-26.png' },
     { id: 'VkN1oPyn6fk', title: 'Sunday Morning Service 08-03-26', img: 'sm-01-02-26.png' },
     { id: '7d2Ow5FItso', title: 'Sunday Evening Service 01-03-26', img: 'sm-01-02-26.png' },
