@@ -1,10 +1,11 @@
 import React from 'react';
-import '../styles/VideoPage.css'; Uco0eIZn_ko
+import '../styles/VideoPage.css';  
 
 const VideoPage = () => {   
   const videos = [
+    { id: 'CkEWTo242FU', title: 'Sunday Evening Service 15-03-26', img: 'sm-01-02-26.png' },
     { id: 'Uco0eIZn_ko', title: 'Sunday Morning Service 22-03-26', img: 'sm-01-02-26.png' },
-    { id: 'KyJelB0bmxM', title: 'Friday All Night Service 20-03-26', img: 'fri-19-12-25.png' },
+    { id: 'KyJelB0bmxM', title: 'Friday All Night Service 20-03-26', img: 'fri-19-12-25.png'},
     { id: '81dz3-1nuQ8', title: 'Sunday Evening Service 15-03-26', img: 'sm-01-02-26.png' },
     { id: 'uhGf9Zhc_Ig', title: 'Sunday Evening Service 08-03-26', img: 'sm-01-02-26.png' },
     { id: 'VkN1oPyn6fk', title: 'Sunday Morning Service 08-03-26', img: 'sm-01-02-26.png' },
