@@ -21,7 +21,7 @@ const VideoPage = () => {
     { id: 'bZa_36h7IxI', title: 'Sunday Evening Service 04-01-26', img: 'se-04-01-26.png' },
     { id: 'inWfLkfHmLY', title: 'Sunday Morning Service 04-01-26', img: 'sm-04-01-26.png' },
     { id: 'AD54GDkbVTs', title: 'NEW YEAR SERVICE - 2026', img: 'ny-2026.png' },
-    { id: 'ClA6FPrY33k', title: 'Sunday Second Service 28-12-2025', img: 'se-28-12-25.png' },
+    { id: 'ClA6FPrY33k', title: 'Sunday Second Service 28-12-2025', img: 'se-28-12-25.png' },e
     { id: '5HYGQuoGzW0', title: 'Sunday Evening Service 21-12-25', img: 'se-21-12-25.png' },
     { id: 'ss3snHQE8fc', title: 'Sunday Morning Service 21-12-25', img: 'sm-21-12-25.png' },
     { id: 'haKAbKoLLDg', title: 'Friday All Night Service 19-12-25', img: 'fri-19-12-25.png' },
