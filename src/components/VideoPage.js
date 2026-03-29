@@ -1,8 +1,9 @@
 import React from 'react';
-import '../styles/VideoPage.css';  
+import '../styles/VideoPage.css';    
 
 const VideoPage = () => {   
   const videos = [
+    { id: 'D86E8qdnw98', title: 'Sunday Morning Service 29-03-26', img: 'sm-01-02-26.png' },
     { id: 'CkEWTo242FU', title: 'Sunday Evening Service 15-03-26', img: 'sm-01-02-26.png' },
     { id: 'Uco0eIZn_ko', title: 'Sunday Morning Service 22-03-26', img: 'sm-01-02-26.png' },
     { id: 'KyJelB0bmxM', title: 'Friday All Night Service 20-03-26', img: 'fri-19-12-25.png'},
